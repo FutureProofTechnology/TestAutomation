@@ -22,3 +22,7 @@ Please leverage pure Python (ex: [here](https://robocorp.com/docs/development-gu
 **Bonus**: We are looking for people that like going the extra mile if time allows or if your curiosity gets the best of you 😎
 
 Extract data from PDF. You need to get the data from **Section A** in each PDF. Then compare the value "**Name of this Investment**" with the column "**Investment Title**", and the value "**Unique Investment Identifier (UII)**" with the column "**UII**"
+
+Up for the challenge? Share your organization on Robocloud with sergii@futureproof.technology once you are done!
+
+Please also send an email to sergii@futureproof.technology with your Workspace name and direct link so we can associate your submission.    
